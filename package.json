@@ -1,0 +1,16 @@
+{
+  "name": "string-calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/stringCalc.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
